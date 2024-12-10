@@ -6,7 +6,7 @@ Welcome to my Advent of Code 2024 solutions repository! Here you'll find my dail
 
 | Day | Part 1 | Part 2 | Solution | Notes |
 |-----|---------|---------|-----------|-------|
-| [Day 1](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ | [Solution](./day01) | |
+| [Day 1](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ | [Solution](./day01) | [Notes](./day01/notes.md) |
 | [Day 2](https://adventofcode.com/2024/day/2) | | | [Solution](./day02) | |
 | [Day 3](https://adventofcode.com/2024/day/3) | | | [Solution](./day03) | |
 | [Day 4](https://adventofcode.com/2024/day/4) | | | [Solution](./day04) | |
