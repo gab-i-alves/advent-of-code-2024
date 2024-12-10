@@ -7,7 +7,7 @@ Welcome to my Advent of Code 2024 solutions repository! Here you'll find my dail
 | Day | Part 1 | Part 2 | Solution | Notes |
 |-----|---------|---------|-----------|-------|
 | [Day 1](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ | [Solution](./day01) | [Notes](./day01/notes.md) |
-| [Day 2](https://adventofcode.com/2024/day/2) | | | [Solution](./day02) | |
+| [Day 2](https://adventofcode.com/2024/day/2) | ⭐ | | [Solution](./day02) | [Notes](./day02/notes.md) |
 | [Day 3](https://adventofcode.com/2024/day/3) | | | [Solution](./day03) | |
 | [Day 4](https://adventofcode.com/2024/day/4) | | | [Solution](./day04) | |
 | [Day 5](https://adventofcode.com/2024/day/5) | | | [Solution](./day05) | |
@@ -93,10 +93,6 @@ python solution.py
 - [Advent of Code 2024](https://adventofcode.com/2024)
 - [Reddit Solution Megathreads](https://www.reddit.com/r/adventofcode/)
 - [Python Documentation](https://docs.python.org/3/)
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 Happy coding! 🎄✨
